@@ -4,9 +4,9 @@ An open-source browser-based space exploration and conquest game providing a pla
 
 ## How To Play
 
-You can play either on an existing server or you can host your own server.
-Consider creating an account on the official server to gain aome insight!
-Anyone setting up a server may apply to have their site added to this list.
+##You can play either on an existing server or you can host your own server.
+##Consider creating an account on the official server to gain some insight!
+##Anyone setting up a server may apply to have their site added to this list.
 
 Official server: [SpaceTraders](https://spacetraders.org)
 
