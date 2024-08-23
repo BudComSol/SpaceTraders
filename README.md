@@ -1,6 +1,6 @@
 # Welcome To SpaceTraders
 
-This is is an open-source browser-based space exploration and conquest game. It provides a platform for players to build and manage their own interstellar empires, engage in diplomacy and warfare with other players, and explore the vastness of space.
+An open-source browser-based space exploration and conquest game providing a platform for players to build and manage their own interstellar empires, engage in diplomacy and warfare with other players, and explore the vastness of space.
 
 ## How To Play
 
