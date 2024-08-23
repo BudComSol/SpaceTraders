@@ -20,14 +20,14 @@
 // 2Moons - Copyright (C) 2010-2012 J�n Kropke
 
 // Site Title
-$LNG['siteTitleIndex']				= 'Home';
-$LNG['siteTitleRegister']			= 'Register';
+$LNG['siteTitleIndex']				= 'Portal';
+$LNG['siteTitleRegister']			= 'Recruitment';
 $LNG['siteTitleScreens']			= 'Screenshots';
 $LNG['siteTitleBanList']			= 'Banned Hall';
 $LNG['siteTitleBattleHall']			= 'Battle Hall';
-$LNG['siteTitleRules']				= 'Rules';
-$LNG['siteTitleNews']				= 'News';
-$LNG['siteTitleDisclamer']			= 'Contacts';
+$LNG['siteTitleRules']				= 'Standing Orders';
+$LNG['siteTitleNews']				= 'Comms';
+$LNG['siteTitleDisclamer']			= 'Contact';
 $LNG['siteTitleLostPassword']		= 'Lost Password?';
 
 // Menu
@@ -41,12 +41,12 @@ $LNG['menu_disclamer']				= 'Contacts';
 $LNG['menu_register']				= 'Registration';
 
 // Universe select
-$LNG['chose_a_uni']					= 'Choose the Universe';
+$LNG['chose_a_uni']					= 'Choose A Universe';
 $LNG['universe']					= 'Universe';
 $LNG['uni_closed']					= ' (closed)';
 
 // Button
-$LNG['buttonRegister']				= 'Register Now!';
+$LNG['buttonRegister']				= 'Join Us Now';
 $LNG['buttonScreenshot']			= 'Screenshots';
 $LNG['buttonLostPassword']			= 'Lost Password?';
 
@@ -67,36 +67,36 @@ $LNG['loginPassword']				= 'Password';
 $LNG['loginButton']					= 'Login';
 $LNG['loginInfo']					= 'With the login I accept the %s.';
 $LNG['loginWelcome']				= 'Welcome to %s';
-$LNG['loginServerDesc']				= '%s is a text-based space strategy game. Conquer planets, build your fleet, and fight against other players. <br><b>OpenSource and Free2Play!</b>';
+$LNG['loginServerDesc']				= '%s is a browser based space strategy MMORPG where you attempt to conquer planets, build up your mighty fleet of space vehicles and battle against the other players. <br><b>OpenSource and Free2Play!</b>';
 
 // Register
 $LNG['registerFacebookAccount']		= 'Facebook Account';
-$LNG['registerUsername']			= 'Username';
+$LNG['registerUsername']			= 'Username:';
 $LNG['registerUsernameDesc']		= 'The Username must be at least 3 and maximum of 25 characters and points, and may consist of numbers, letters, underscores and spaces';
-$LNG['registerPassword']			= 'Password';
-$LNG['registerPasswordDesc']		= 'The password must be at least %s characters long.';
+$LNG['registerPassword']			= 'Password:';
+$LNG['registerPasswordDesc']		= '%s characters or more.';
 $LNG['registerPasswordReplay']		= 'Repeat Password';
 $LNG['registerPasswordReplayDesc']	= 'Please enter the same password.';
-$LNG['registerEmail']				= 'E-Mail';
-$LNG['registerEmailDesc']			= 'Please enter your E-Mail address!';
+$LNG['registerEmail']				= 'E-Mail:';
+$LNG['registerEmailDesc']			= 'Best E-Mail address.';
 $LNG['registerEmailReplay']			= 'Repeat E-Mail';
 $LNG['registerEmailReplayDesc']		= 'Please input of your email address once again to the security!';
-$LNG['registerLanguage']			= 'Language';
+$LNG['registerLanguage']			= 'Language:';
 $LNG['registerReferral']			= 'Advertised by:';
-$LNG['registerCaptcha']				= 'Security code';
+$LNG['registerCaptcha']				= 'Security Code';
 $LNG['registerCaptchaDesc']			= 'Please enter the characters below in the empty field. There does not have case sensitivity';
 $LNG['registerCaptchaReload']		= 'Reload Captcha.';
 $LNG['registerRules']				= 'Rules';
-$LNG['registerRulesDesc']			= 'I agree with the %s';
+$LNG['registerRulesDesc']			= 'I agree to the games ToS and the game %s';
 
 $LNG['registerBack']				= 'Back';
 $LNG['registerNext']				= 'Next';
 
-$LNG['registerErrorUniClosed']		= 'The registration is closed in this universe.!';
+$LNG['registerErrorUniClosed']		= 'Registration is closed in this universe.';
 $LNG['registerErrorUsernameEmpty']	= 'You must enter a username!';
 $LNG['registerErrorUsernameChar']	= 'Your username must consist in numbers, Letters, Spaces, _, -, . only!';
 $LNG['registerErrorUsernameExist']	= 'The username is already taken!';
-$LNG['registerErrorPasswordLength']	= 'The password must be at least %s characters long!';
+$LNG['registerErrorPasswordLength']	= 'Must be at least %s characters!';
 $LNG['registerErrorPasswordSame']	= 'Entering 2 different Passwords!';
 $LNG['registerErrorMailEmpty']		= 'You must specify an E-Mail address!';
 $LNG['registerErrorMailInvalid']	= 'Invalid E-Mail address!';
@@ -116,20 +116,20 @@ $LNG['registerWelcomePMSenderName']	= 'Administrator';
 $LNG['registerWelcomePMSubject']	= 'Welcome';
 $LNG['registerWelcomePMText']		= 'Welcome to %s! First build a solar power plant, because energy is needed for the production of raw materials. To build one, left click in the menu on "buildings". Then build the 4th Building from the top. </br> When you have energy, you can begin to build mines. Go to buildings on the menu and build a metal mine, followed by a crystal mine. </br></br>In order to be able to build ships you need to have a shipyard. To see what is needed to unlock that building you can take a look at "Technologies" at the left menu.</br>If you more questions you can look at the beginnersguide, our forum or open a support ticket. </br></br> The team wishes you much fun exploring the universe!';
 
-$LNG['registerSecretQuestionText'] = "Please select a secret question";
-$LNG['registerSecretQuestionAnswerText'] = "Answer to your secret question";
+$LNG['registerSecretQuestionText'] = "Select Secret Question";
+$LNG['registerSecretQuestionAnswerText'] = "Secret Question Answer";
 $LNG['registerSecretQuestionArray'] = array(
-  0 => 'Which city were you born in ?',
-  1 => 'What is the name of your favorite pet ?',
-  2 => "What is your mother's maiden name ?",
-  3 => "What high school did you attend ?",
-  4 => "What was the name of your elementary school ?",
-  5 => "What was the make of your first car ?",
-  6 => "What was your favorite food as a child ?"
+  0 => 'City born in?',
+  1 => 'Favorite pet?',
+  2 => "Mother's name?",
+  3 => "High school?",
+  4 => "Elementary school?",
+  5 => "First car make?",
+  6 => "Favourite food?"
 );
-$LNG['registerSecretQuestionError_1'] = "You selected a wrong secret question !";
-$LNG['registerSecretQuestionError_2'] = "Answer of secret question cannot be empty !";
-$LNG['registerSecretQuestionError_3'] = "Answer of secret question cannot be longer than 64 characters !";
+$LNG['registerSecretQuestionError_1'] = "You selected a wrong secret question!";
+$LNG['registerSecretQuestionError_2'] = "Answer of secret question cannot be empty!";
+$LNG['registerSecretQuestionError_3'] = "Answer of secret question cannot be longer than 64 characters!";
 
 /*
 
@@ -181,4 +181,4 @@ $LNG['news_does_not_exist']			= 'No news available!';
 $LNG['disclamerLabelAddress']		= 'Game Address:';
 $LNG['disclamerLabelPhone']			= 'Telephone Nr.:';
 $LNG['disclamerLabelMail']			= 'Support Email:';
-$LNG['disclamerLabelNotice']		= 'More information';
+$LNG['disclamerLabelNotice']		= 'More information:';

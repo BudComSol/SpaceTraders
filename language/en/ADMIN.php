@@ -680,7 +680,7 @@ $LNG['ul_sure_you_want_dlte'] = 'Are you sure that you want to remove?';
 
 //---------------	Menu Esquerdo	------------------------//
 $LNG['mu_general'] = 'General';
-$LNG['mu_connected'] = 'Online';
+$LNG['mu_connected'] = 'Online Users';
 $LNG['mu_settings'] = 'Server Configuration';
 $LNG['mu_unisettings'] = 'Universe Configuration';
 $LNG['mu_global_message'] = 'Global Message';
@@ -701,9 +701,9 @@ $LNG['mu_active_planets'] = 'Active Planets';
 $LNG['mu_tools'] = 'Tools';
 $LNG['mu_md5_encripter'] = 'MD5 Encryptor';
 $LNG['mu_optimize_db'] = 'Verify database';
-$LNG['mu_manual_points_update'] = 'Manual points';
+$LNG['mu_manual_points_update'] = 'Manual Points';
 $LNG['mu_mpu_confirmation'] = 'The Updater is automatico points, this allows you to see what is that your server is currently doing (As memory consumed, SQL, etc.)';
-$LNG['mu_search_page'] = 'Advanced search';
+$LNG['mu_search_page'] = 'Advanced Search';
 $LNG['mu_info_account_page'] = 'Information Account';
 $LNG['mu_planets_options'] = 'Planets Options';
 $LNG['mu_user_logs'] = 'Admin Log';
@@ -711,18 +711,18 @@ $LNG['mu_support'] = 'Support Tickets';
 $LNG['mu_chat'] = 'Chat Configuration';
 $LNG['mu_module'] = 'Modules';
 $LNG['mu_mod_update'] = 'Checking version of MOD';
-$LNG['mu_fb_options'] = 'Registration by Facebook';
+$LNG['mu_fb_options'] = 'Facebook Registration';
 $LNG['mu_ts_options'] = 'Teamspeak Options';
 $LNG['mu_game_info'] = 'Information';
-$LNG['mu_vaild_users'] = 'User activity';
+$LNG['mu_vaild_users'] = 'User Activity';
 $LNG['mu_news'] = 'News';
 $LNG['mu_multiip_page'] = 'Multiple IPs';
 $LNG['mu_clear_cache'] = 'Clear Cache';
-$LNG['mu_vertify'] = 'Check Game content';
+$LNG['mu_vertify'] = 'Check Game Content';
 $LNG['mu_cronjob'] = 'Cronjobs';
 $LNG['mu_logs'] = 'Admin Log';
 $LNG['mu_giveaway'] = 'Giveaways';
-$LNG['mu_disclaimer'] = 'Contact settings';
+$LNG['mu_disclaimer'] = 'Contact Settings';
 $LNG['mu_dump'] = 'Database Backup';
 
 $LNG['vt_error'] = 'Hashfile is not available! - Run Update!';
@@ -745,10 +745,10 @@ $LNG['vt_loadfile'] = 'Loading file list';
 
 //###########################################################//
 
-$LNG['cc_cache_clear'] = 'Cache cleaned';
+$LNG['cc_cache_clear'] = 'Cache Cleaned';
 
 //---------------	Reinicio de Universo	------------------------//
-$LNG['re_reset_universe'] = 'Restart the universe';
+$LNG['re_reset_universe'] = 'Restart the Universe';
 $LNG['re_player_and_planets'] = 'Players and Planets';
 $LNG['re_reset_player'] = 'Delete all Players';
 $LNG['re_reset_planets'] = 'Delete all Planets';
@@ -904,7 +904,7 @@ $LNG['se_ban_reason'] = 'Reason';
 $LNG['se_ban_time'] = 'suspended';
 $LNG['se_ban_limit'] = 'Up';
 $LNG['se_ban_author'] = 'Suspended by';
-$LNG['se_search_title'] = 'Advanced search';
+$LNG['se_search_title'] = 'Advanced Search';
 $LNG['se_order_list_now'] = 'Sort Search';
 $LNG['se_input_name'] = 'Name';
 $LNG['se_input_g'] = 'Galaxy';
@@ -996,7 +996,7 @@ $LNG['se_search_alliance_5'] = "Number of members";
 
 
 //---------------	Criador	------------------------//
-$LNG['new_creator_title'] = 'Creator';
+$LNG['new_creator_title'] = 'Content Creator';
 $LNG['new_creator_title_u'] = 'Create/Delete users';
 $LNG['new_creator_title_p'] = 'Create/Delete Planets';
 $LNG['new_creator_title_l'] = 'Create/Delete Moons';

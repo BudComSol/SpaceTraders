@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 *  ultimateXnova
 *  based on 2moons by Jan-Otto Kröpke 2009-2016
@@ -80,7 +80,7 @@ $LNG['tech'] = array(
   1 => 'Metal Mine',
   2 => 'Crystal Mine',
   3 => 'Deuterium Refinery',
-  4 => 'Solar Power plant',
+  4 => 'Solar Power Plant',
   6 => 'University',
  12 => 'Deuterium Power Plant',
  14 => 'Robot Factory',
@@ -95,7 +95,7 @@ $LNG['tech'] = array(
  44 => 'Missile Silo',
 
  40 => 'Moon Buildings',
- 41 => 'Moon base',
+ 41 => 'Moon Base',
  42 => 'Phalanx Sensor',
  43 => 'Jumpgate',
 
@@ -165,7 +165,7 @@ $LNG['tech'] = array(
 604 => 'Technocrat',
 605 => 'Constructor',
 606 => 'Scientist',
-607 => 'Storage expert',
+607 => 'Storage Expert',
 608 => 'Minister of Defence',
 609 => 'Guardian',
 610 => 'Spy',
@@ -193,10 +193,10 @@ $LNG['tech'] = array(
 );
 
 $LNG['shortDescription'] = array(
-1 => 'Used in the extraction of metal ore, metal mines are of primary importance to all emerging and established empires.',
-2 => 'Crystals are the main resource used to build electronic circuits and form certain alloy compounds.',
-3 => 'Deuterium is used as fuel for spaceships and is harvested in the deep sea. Deuterium is a rare substance and is thus relatively expensive.',
-4 => 'Solar power plants absorb energy from solar radiation. All mines need energy to operate.',
+1 => 'Used solely as the means of extracting metal ores, metal mines are of a vital and primary importance to every emerging and established empires of the realm.',
+2 => 'Crystals are the primary resource utilised in building sofisticated electronic components and also in the formation of certain rare requisite alloy compounds.',
+3 => 'Deuterium is used as fuel for spaceships and is harvested within the deep sea. Deuterium is considered a rare substance which makes it relatively expensive.',
+4 => 'Solar plants absorb energy from solar radiation which all mines need to operate.',
 6 => 'Shortens research time each level by 8%.',
 12 => 'The fusion reactor uses deuterium to produce energy.',
 14 => 'Robotic factories provide construction robots to aid in the construction of buildings. Each level increases the speed of the upgrade of buildings',
@@ -284,13 +284,13 @@ $LNG['shortDescription'] = array(
 614 => 'The Conqueror is a member of the Imperial Army, it has the ability to navigate a particular type of ship that no one else could do or take off.',
 615 => 'The Emperor placed under his command available to all officers in the empire, combining their skills to dominate the universe and to become an opponent almost invincible.',
 
-701 => 'Increases the attack value of the ships and defenses.',
+701 => 'Increases attack value of the ships and defenses.',
 702 => 'Increases the value of ships shields and defenses',
-703 => 'Shortens the construction time for buildings',
+703 => 'Shortens the construction time for new buildings',
 704 => 'Increases resource production',
 705 => 'Increases energy production',
 706 => 'Shortens research time',
-707 => 'Shortens flying time. Does not affect Expeditions.',
+707 => 'Shortens flying time, does not affect Expeditions.',
 
 901 => 'Metal is the main resource for Buildings and Ships. It is the cheapest resource, but it is needed the most as well.',
 902 => 'Crystals are the main resource used to build electronic circuits and form certain alloy compounds.',
@@ -301,8 +301,8 @@ $LNG['shortDescription'] = array(
 
 $LNG['longDescription'] = array(
 1 => 'Used in the extraction of metal ore, metal mines are of primary importance to all emerging and established empires.',
-2 => 'Crystals are the main resource used to build electronic circuits and form certain alloy compounds.',
-3 => 'Deuterium is used as fuel for spaceships and is harvested in the deep sea. Deuterium is a rare substance and is thus relatively expensive.',
+2 => 'Crystals are the primary resource utilised in building sofisticated electronic components and in the formation of certain rare requisite alloy compounds.',
+3 => 'Deuterium is used as fuel for spaceships and is harvested within the deep sea. Deuterium is considered a rare substance which makes it relatively expensive',
 4 => 'Solar power plants absorb energy from solar radiation. All mines need energy to operate.',
 6 => 'Shortens research time each level by 8%.',
 12 => 'The fusion reactor uses deuterium to produce energy.The efficiency of Deuterium power plant raises according to the Energy Technology level as well as its own level. The formula for energy production is:<br>Energy produced = 30 x Deuterium Power Plant level x (1.05 + (0.01 * Energy level))^Deuterium Power Plant',
