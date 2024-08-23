@@ -8,9 +8,7 @@ ultimateXnova is an open-source browser-based space exploration and conquest gam
 
 You can either play on an existing server or you can host your own server.
 
-Official server: [game.ultimatexnova.de](https://game.ultimatexnova.de)
-
-*If you want your server added here, feel free to open a new discussion [here](https://github.com/ultimatexnova/ultimatexnova/discussions)*
+Official server: [SpaceTraders](https://spacetraders.org)
 
 ## How to install your own server
 
