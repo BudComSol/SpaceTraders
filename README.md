@@ -1,4 +1,4 @@
-# Welcome To SpaceTraders
+# Welcome To SpaceTraders V1.8.1.2
 
 An open-source browser-based space exploration and conquest game providing a platform for players to build and manage their own interstellar empires, engage in diplomacy and warfare with other players, and explore the vastness of space.
 
@@ -76,6 +76,15 @@ The "Galaxy of Wars" theme has been updated with a new background and some small
 The login screen has also received a minor makeover by adding the logo to the top by default and changing the background.
 
 
+## Change Log
+
+V1.8.1.2
+
+* Bottom menu now collapsable.
+* Avatar and avatar upload added to nextGen theme.
+* Several bug fixes.
+* Numerous language string edits for EN language.
+* Numerous css edits.
 
 
 ## Roadmap
@@ -85,7 +94,6 @@ The login screen has also received a minor makeover by adding the logo to the to
 * Adding more responsive optimizations for mobile devices to the login and the themes
 * More UI improvements
 * Fixing major bugs
-* New version numbering
 
 ### Medium Priority
 
@@ -104,7 +112,9 @@ The login screen has also received a minor makeover by adding the logo to the to
 
 ## Contributions
 
-This game is based on SteemNova 1.8-x.
+SpaceTraders is based on ultimateXnova which in turn is based on SteemNova 1.8-x.
+
+For more information about ultimateXnova, you can visit the official repository on GitHub: [ultimateXnova Repository](https://github.com/ultimateXnova/ultimateXnova).
 
 For more information about SteemNova 1.8, you can visit the official repository on GitHub: [SteemNova 1.8 Repository](https://github.com/koraykarakus/steemnova-1.8-x)
 
